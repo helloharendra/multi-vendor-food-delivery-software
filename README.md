@@ -10,6 +10,23 @@ We develop customised food delivery marketplace solutions that connect multiple 
 
 Whether you want to launch a local food delivery marketplace, build a city-wide restaurant ordering platform, or establish a scalable multi-restaurant delivery business, we can develop a solution around your business model.
 
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Admin Dashboard**
+
+![Admin Dashboard](screenshots/2-admin.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
+
 ## What Is Multi Vendor Food Delivery Software?
 
 Multi Vendor Food Delivery Software is a digital marketplace platform that allows multiple restaurants and food vendors to register, manage their menus, receive orders, and serve customers through one centralised food delivery system.
@@ -431,20 +448,3 @@ This repository showcases Naya Prayog Technologies' multi-vendor food delivery s
 For customisation, pricing, implementation, or project enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
-
-<!-- screenshots -->
-## Screenshots
-
-**Home**
-
-![Home](screenshots/1-home.png)
-
-**Admin Dashboard**
-
-![Admin Dashboard](screenshots/2-admin.png)
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
-  </tr>
-</table>

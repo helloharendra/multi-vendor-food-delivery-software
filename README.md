@@ -431,3 +431,20 @@ This repository showcases Naya Prayog Technologies' multi-vendor food delivery s
 For customisation, pricing, implementation, or project enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Admin Dashboard**
+
+![Admin Dashboard](screenshots/2-admin.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
